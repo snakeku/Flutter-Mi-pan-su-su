@@ -1,6 +1,10 @@
 # Mi pan Flutter App
 
-A fun flutter app that allows users to play the isolated vocals at demand accompanied with the accompaniment just for fun.
+A fun flutter app that allows users to play the isolated vocals at demand together with the accompaniment just for fun.
+
+
+
+<img src="assets/Showcase/Screen Example.gif"  height="500" >
 
 ## Still in Development
 
