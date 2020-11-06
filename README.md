@@ -1,16 +1,12 @@
-# mipan_susu
+# Mi pan Flutter App
 
-A new Flutter project.
+A fun flutter app that allows users to play the isolated vocals at demand accompanied with the accompaniment just for fun.
 
-## Getting Started
+## Still in Development
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Disclaimer
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Credits goes to the rightful owners for gif & media used.
+The gif and media used in this project does not belong to me. Credits goes to the owners.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
